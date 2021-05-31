@@ -18,6 +18,7 @@
 }
 
 .body__button {
+    display: block;
     background-color: #090c0f;
     padding: 8px 13px;
     border: 1px solid #c2bab5;
