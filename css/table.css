@@ -1,0 +1,41 @@
+.table {
+    border-collapse: collapse;
+    margin: 50px auto;
+    width: 50%;
+    background-color: rgb(224, 224, 224);
+    text-shadow: none;
+}
+
+.table__CellStyle--color {
+    color: #960722;
+}
+
+.table__Caption {
+    caption-side: bottom;
+    text-align: right;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+}
+
+.table__Heading {
+    color: rgb(255, 255, 255);
+    background-color: #090c0f;
+    text-align: left;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.table__CellStyle {
+    padding: 10px;
+    text-align: center;
+    border: 2px groove rgb(98, 198, 211);
+}
+
+.table__HeaderBackground {
+    background-color: rgb(196, 193, 192);
+    color: rgb(12, 52, 90);
+}
+
+.table__Row:hover {
+    background-color: rgb(255, 250, 250);
+}
