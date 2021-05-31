@@ -127,7 +127,3 @@
 .main__navReturnLink:active {
     color: darkcyan;
 }
-
-.main__article--container {
-    overflow-x: auto;
-}
